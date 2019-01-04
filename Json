@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.73",
-      "vercode":"47" ,
-      "path":"https://titaniumtv.xyz/Morph2.apk"
+      "vername":"1.00",
+      "vercode":"20" ,
+      "path":"https://archive.org/download/PhoenixTv/base.apk"
     },
     "media":{
-      "news":"Get123movies.com and splash screen fixed on some devices."
+      "news":"Change all the Api and Couple of providers "
     }
   }
 }
