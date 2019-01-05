@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.01",
-      "vercode":"21" ,
-      "path":"https://archive.org/download/PhoenixTv_201901/base.apk"
+      "vername":"1.02",
+      "vercode":"22" ,
+      "path":"https://archive.org/download/Phoenixtv_20190105_2258/base.apk"
     },
     "media":{
-      "news":"Change all the Api and Couple of providers"
+      "news":"New icons "
     }
   }
 }
