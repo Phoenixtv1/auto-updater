@@ -1,12 +1,13 @@
 {
   "data":{
     "file":{
-      "vername":"1.03",
-      "vercode":"23" ,
-      "path":"https://archive.org/download/PhoenixTv_20190107/base.apk"
+      "vername":"1.04",
+      "vercode":"24" ,
+      "path":"https://archive.org/download/Phoenixtv1/base.apk"
     },
     "media":{
-      "news":"New Hd Release Section and TV Calendar for shows "
+      "news":"New Hd Release Section and TV Calendar for shows 
+      flixanity for movies was fix"
     }
   }
 }
