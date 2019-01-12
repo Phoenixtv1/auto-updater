@@ -1,13 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.04",
-      "vercode":"24" ,
-      "path":"https://archive.org/download/Phoenixtv1/base.apk"
+      "vername":"1.05",
+      "vercode":"25" ,
+      "path":"https://archive.org/download/PhoenixTv_20190112/base.apk"
     },
     "media":{
-      "news":"New Hd Release Section and TV Calendar for shows 
- flixanity for movies was fix"
+      "news":"Putlockertv.is was fixed as well as Flixanity.Bubbleupnp for casting was added"
     }
   }
 }
