@@ -3,12 +3,10 @@
     "file":{
       "vername":"1.06",
       "vercode":"26" ,
-      "path":"https://archive.org/download/Phoenix_201901/base.apk"
+      "path":"https://archive.org/download/Phoenix_20190116/base.apk"
     },
     "media":{
-      "news":"providers were fixed and also tvsubnet for subtitles was fix
-       -Lastest Release section was added 
-       - Bring back the trending category for shows"
+      "news":"providers were fixed "
     }
   }
 }
