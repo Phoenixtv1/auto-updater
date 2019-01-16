@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.05",
-      "vercode":"25" ,
-      "path":"https://archive.org/download/PhoenixTv_20190112/base.apk"
+      "vername":"1.06",
+      "vercode":"26" ,
+      "path":"https://archive.org/download/Phoenix_201901/base.apk"
     },
     "media":{
-      "news":"Putlockertv.is was fixed as well as Flixanity. Bubbleupnp for casting was added"
+      "news":"providers were fixed and also tvsubnet for subtitles was fix"
     }
   }
 }
