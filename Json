@@ -1,9 +1,9 @@
 {
   "data":{
     "file":{
-      "vername":"1.09",
-      "vercode":"32" ,
-      "path":"https://archive.org/download/PhoenixTV_20190131_2016/base.apk" 
+      "vername":"1.10",
+      "vercode":"33" ,
+      "path":"https://drive.google.com/uc?export=download&id=108AOI_cO4ju3bJTL0RjCfGD7K9uiniBB" 
     },
     "media":{
       "news":" 1-Providers were fixed
@@ -11,7 +11,8 @@
    3-Optimize search time. 
    4-TV-sub for subtitles was update. 
    5-Enjoy it and thank you for choosing Phoenix tv.
-   6-EZTV torrent for tv shows fixed"
+   6-EZTV torrent for tv shows fixed
+   7- Attempt to fix crashes in some devices"
     }
   }
 }
