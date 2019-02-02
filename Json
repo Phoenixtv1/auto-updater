@@ -1,18 +1,15 @@
 {
   "data":{
     "file":{
-      "vername":"1.10",
-      "vercode":"33" ,
-      "path":"https://drive.google.com/uc?export=download&id=1rtZmzcw5XZio3xVTEeIiL-Gx74NTYLvh" 
+      "vername":"1.10. 1",
+      "vercode":"36" ,
+      "path":"http://bit.ly/2TvUcPy" 
     },
     "media":{
-      "news":" 1-Providers were fixed
-   2-Romantic and family section was added to the apk. 
-   3-Optimize search time. 
-   4-TV-sub for subtitles was update. 
-   5-Enjoy it and thank you for choosing Phoenix tv.
-   6-EZTV torrent for tv shows fixed
-   7- Attempt to fix crashes in some devices"
+      "news":" Before update please go back and delete data can cache in the old apk then update it. It will fix issues 
+      With apk crashing once you try to change something in settings. Thank you! Happy Streaming" 
+      
+
     }
   }
 }
