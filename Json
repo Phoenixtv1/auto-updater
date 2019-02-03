@@ -1,13 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.10.1",
-      "vercode":"36" ,
-      "path":"https://drive.google.com/uc?export=download&id=1nGDOTVyWPpOak1dzTggRirLHlyzCdm7j" 
+      "vername":"1.11",
+      "vercode":"37" ,
+      "path":"https://archive.org/download/Phoenixtv_201902/base.apk" 
     },
     "media":{
-      "news":" Before update please go back and delete data and cache in the old apk then update it. It will fix issues 
-      With apk crashing once you try to change something in settings. Thank you! Happy Streaming" 
+      "news":"Providers Yesmovies.sc, streamlord and CartoonHD were updated. Thank you! Happy Streaming" 
       
 
     }
