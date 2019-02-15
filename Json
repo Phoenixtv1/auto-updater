@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.11",
-      "vercode":"37" ,
-      "path":"https://archive.org/download/Phoenixtv_201902/base.apk" 
+      "vername":"1.12",
+      "vercode":"38" ,
+      "path":"https://archive.org/download/Phoenixtv_20190215/base.apk" 
     },
     "media":{
-      "news":"Providers Yesmovies.sc, streamlord and CartoonHD were updated. Thank you! Happy Streaming" 
+      "news":"Auto rotation was added to player and CartoonHD were updated. Thank you! Happy Streaming" 
       
 
     }
