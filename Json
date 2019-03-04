@@ -1,12 +1,13 @@
 {
   "data":{
     "file":{
-      "vername":"1.12",
-      "vercode":"38" ,
-      "path":"https://archive.org/download/Phoenixtv_20190215/base.apk" 
+      "vername":"1.13",
+      "vercode":"40" ,
+      "path":"https://archive.org/download/Phoenixtv_201903/base.apk" 
     },
     "media":{
-      "news":"Auto rotation was added to player and CartoonHD were updated. Thank you! Happy Streaming" 
+      "news":"Provider were update and new torrents tracker were added. Thank you! Happy Streaming" 
+
       
 
     }
