@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.14",
-      "vercode":"41" ,
-      "path":"https://archive.org/download/Phoenixtv_201904/base.apk" 
+      "vername":"1.14.1 (beta)",
+      "vercode":"42" ,
+      "path":"https://archive.org/download/Base8_201904/base.apk" 
     },
     "media":{
-      "news":"Provider were update and new torrents tracker were added. Thank you! Happy Streaming" 
+      "news":"Provider were updated and opensubtitles was fixed . Thank you! Happy Streaming" 
 
       
 
